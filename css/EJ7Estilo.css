@@ -1,0 +1,19 @@
+
+h1 {
+    font: 1em sans-serif;
+    text-align: center;
+    color: rgb(42, 147, 165);
+}
+h2 {
+    font: 1em sans-serif;
+    text-align: center;
+    color: rgb(54, 197, 97);
+}
+p {
+    font: optional;
+    text-align: left;
+    color: rgb(82, 84, 196);
+}
+body {
+    background-color: rgb(213, 196, 230);
+}
